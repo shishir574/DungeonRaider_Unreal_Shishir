@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DungeonRaider",
+			"Path": "..\\Source\\DungeonRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DungeonRaiderEditor",
+			"Path": "..\\Source\\DungeonRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

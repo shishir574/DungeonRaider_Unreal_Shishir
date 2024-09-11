@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DungeonRaider.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonRaider.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DungeonRaiderEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DungeonRaider">
+      <UniqueIdentifier>{55FC265A-2C7D-3F14-A998-57B593E51CA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DungeonRaider\DungeonRaider.Build.cs">
+      <Filter>Source\DungeonRaider</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DungeonRaider\DungeonRaider.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\DungeonRaider.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\DungeonRaiderCharacter.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\DungeonRaiderCharacter.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\DungeonRaiderGameMode.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\DungeonRaiderGameMode.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\DungeonRaiderPlayerController.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\DungeonRaiderPlayerController.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\DungeonRaiderProjectile.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\DungeonRaiderProjectile.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\TP_PickUpComponent.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\TP_PickUpComponent.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DungeonRaider\TP_WeaponComponent.cpp">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DungeonRaider\TP_WeaponComponent.h">
+      <Filter>Source\DungeonRaider</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

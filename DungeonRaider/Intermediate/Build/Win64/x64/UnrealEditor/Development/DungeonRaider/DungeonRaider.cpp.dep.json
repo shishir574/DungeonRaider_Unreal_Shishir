@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\dungeonraider_unreal_shishir\\dungeonraider\\source\\dungeonraider\\dungeonraider.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\dungeonraider_unreal_shishir\\dungeonraider\\intermediate\\build\\win64\\x64\\dungeonraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\dungeonraider_unreal_shishir\\dungeonraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonraider\\definitions.dungeonraider.h",
+            "d:\\unreal projects\\dungeonraider_unreal_shishir\\dungeonraider\\source\\dungeonraider\\dungeonraider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
